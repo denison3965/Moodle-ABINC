@@ -1,0 +1,30 @@
+a:80:{s:13:"autoslideshow";s:1:"1";s:13:"cmenuPosition";s:1:"3";s:9:"cmenushow";s:1:"1";s:16:"comboListboxType";s:1:"1";s:9:"copyright";s:21:"lang:copyrightdefault";s:9:"customcss";s:480:"#site-header .header-main a.has-logo .logo img {
+    max-height: 65px;
+}
+.sectionname{
+    font-weight: 400;
+    color: #72D4FF;
+    text-transform: uppercase;
+  margin-top: 70px;
+   margin-bottom: 50px;
+}
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+    margin-left: 60px;
+}
+.site-info .info-content.video-visible .info-block
+ {
+    margin-left: 580px;
+    height: 290px;
+}
+//tamanho da div que segura os cursos na home
+.slick-track{
+  width:auto;
+}";s:11:"footaddress";s:79:"20-A , Nehru Street , Sathyamoorthi Nagar Madurai - 625010 , Tamilnadu , India.";s:11:"footemailid";s:22:"yourmailid@example.com";s:15:"footerb1_status";s:1:"1";s:15:"footerb2_status";s:1:"1";s:15:"footerb3_status";s:1:"1";s:15:"footerb4_status";s:1:"1";s:12:"footerblink2";s:125:"Future students|http://www.example.com/
+International students |http://www.example.com/
+Researchers|http://www.example.com/";s:12:"footerblink3";s:103:"Accessibility|http://www.example.com/
+Contact us|http://www.example.com/
+Jobs|http://www.example.com/";s:13:"footerbtitle1";s:25:"lang:footerbtitle1default";s:13:"footerbtitle2";s:25:"lang:footerbtitle2default";s:13:"footerbtitle3";s:25:"lang:footerbtitle3default";s:13:"footerbtitle4";s:25:"lang:footerbtitle4default";s:11:"footerdesc1";s:328:"<div><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et lobortis diam.&nbsp;</p><p>Duis tellus enim, vestibulum eget varius id, vulputate et mi. Nullam feugiat, diam quis interdum varius</p></div><a href="#"><span style="color: #fff; font-weight: bold; border-bottom: 1px solid #fff">Start Learning Now</span></a>";s:11:"footphoneno";s:10:"+123456789";s:4:"logo";s:20:"/ABINC_Logo_Alta.png";s:21:"marketingSpot1_status";s:1:"1";s:21:"marketingSpot2_status";s:1:"1";s:10:"mspot1desc";s:351:"A ABINC, tem por missão, catalisar, fomentar e promover os diferentes interesses e necessidades destinados ao negócio de IoT, visando a satisfazer os seus associados e parceiros, com atuações e representações nas esferas públicas e privadas, contribuindo no desenvolvimento tecnológico, respeitando o indivíduo, a sociedade e o meio ambiente.";s:11:"mspot1media";s:179:"<p dir="ltr" style="text-align: left;">https://abinc.org.br/site2020/wp-content/uploads/2020/11/ABINC-e-Master-parceria-que-beneficia-empresas-de-tecnologia-1200-x-628.png<br></p>";s:11:"mspot1title";s:13:"Sobre a ABINC";s:10:"mspot2desc";s:173:""Junte-se a Associação Brasileira de Internet das Coisas e esteja sempre a frente do mercado de IOT. Quanto maior for a nossa comunidade, mais forte será o nosso setor ."";s:11:"mspot2title";s:10:"ASSOCIE-SE";s:9:"mspot2url";s:55:"https://abinc.org.br/ficha-de-filiacao-pessoa-juridica/";s:15:"mspot2urltarget";s:1:"1";s:13:"mspot2urltext";s:15:"Junte-se a nós";s:13:"patternselect";s:7:"default";s:11:"primarymenu";s:42:"SITE ABINC|https://abinc.org.br/
+Home|#
+";s:9:"siconbgc1";s:7:"#47caf6";s:9:"siconbgc2";s:7:"#e84c3d";s:9:"siconbgc3";s:7:"#cd2129";s:9:"siconbgc4";s:7:"#3598dc";s:12:"siconenable1";s:1:"1";s:12:"siconenable2";s:1:"1";s:12:"siconenable3";s:1:"1";s:12:"siconenable4";s:1:"1";s:9:"siconurl1";s:35:"https://twitter.com/yourtwittername";s:9:"siconurl2";s:40:"https://www.google.com/+yourgoogleplusid";s:9:"siconurl3";s:43:"https://in.pinterest.com/yourpinterestname/";s:9:"siconurl4";s:39:"https://www.facebook.com/yourfacebookid";s:13:"slide1caption";s:50:"BANCO DE DADOS (BIG DATA) - MANIPULAÇÃO DE DADOS";s:21:"slide1contentPosition";s:11:"centerRight";s:19:"slide1contFullwidth";s:2:"50";s:10:"slide1desc";s:297:"Bancos de dados  ou bases de dados são conjuntos de arquivos relacionados entre si com registros sobre pessoas, lugares ou coisas. São coleções organizadas de dados que se relacionam de forma a criar algum sentido (informação) e dar mais eficiência durante uma pesquisa ou estudo cientifico";s:11:"slide1image";s:24:"/server-2160321_1920.jpg";s:12:"slide1status";s:1:"1";s:10:"slide1url1";s:23:"http://www.example.com/";s:16:"slide1urltarget1";s:1:"0";s:14:"slide1urltext1";s:10:"SAIBA MAIS";s:13:"slide2caption";s:13:"industria 4.0";s:21:"slide2contentPosition";s:11:"centerRight";s:19:"slide2contFullwidth";s:2:"50";s:10:"slide2desc";s:524:"A Indústria 4.0 facilita a visão e execução de “Fábricas Inteligentes” com as suas estruturas modulares, os sistemas ciber-físicos monitoram os processos físicos, criam uma cópia virtual do mundo físico e tomam decisões descentralizadas. Com a internet das coisas, os sistemas ciber-físicos comunicam e cooperam entre si e com os humanos em tempo real, e através da computação em nuvem, ambos os serviços internos e intra-organizacionais são oferecidos e utilizados pelos participantes da cadeia de valor";s:11:"slide2image";s:63:"/3d-low-poly-abstract-background-with-connecting-lines-dots.jpg";s:12:"slide2status";s:1:"1";s:10:"slide2url1";s:23:"http://www.example.com/";s:16:"slide2urltarget1";s:1:"0";s:14:"slide2urltext1";s:10:"SAIBA MAIS";s:13:"slide3caption";s:19:"CIDADE INTELIGENTES";s:21:"slide3contentPosition";s:11:"centerRight";s:19:"slide3contFullwidth";s:2:"50";s:10:"slide3desc";s:205:"Cidades inteligentes são aquelas que otimizam a utilização dos recursos para servir melhor os cidadãos. Isso vale para a mobilidade, a energia ou para qualquer serviço necessário à vida das pessoas.";s:11:"slide3image";s:27:"/singapore-1990959_1920.jpg";s:12:"slide3status";s:1:"1";s:10:"slide3url1";s:23:"http://www.example.com/";s:16:"slide3urltarget1";s:1:"0";s:14:"slide3urltext1";s:10:"SAIBA MAIS";s:13:"slideinterval";s:4:"3500";s:20:"slideOverlay_opacity";s:3:"0.4";s:15:"slideshowStatus";s:1:"1";s:11:"socialicon1";s:7:"twitter";s:11:"socialicon2";s:11:"google-plus";s:11:"socialicon3";s:11:"pinterest-p";s:11:"socialicon4";s:10:"facebook-f";s:7:"version";s:10:"2020113000";}
